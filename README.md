@@ -1,5 +1,5 @@
 # Loan-Approval-System
-The Loan Approval System is a software application designed to simplify and automate the loan application and approval process. This project was developed for a Software Engineering and Database course, focusing on system design, data management, and reporting
+The Loan Approval System is a software application designed to simplify and automate the loan application and approval process. This project was developed for a Software Engineering and Database course, focusing on system design, data management, and reporting.
 
 ### Included Documents
 1. SRS Document
